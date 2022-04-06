@@ -1,6 +1,12 @@
-use_frameworks!
+
+
+source 'https://github.com/fanyunfei786452470/FYFSpecs.git'
 
 platform :ios, '9.0'
+
+inhibit_all_warnings!
+use_modular_headers!
+# use_frameworks!
 
 target '${POD_NAME}_Example' do
   pod '${POD_NAME}', :path => '../'
