@@ -38,7 +38,7 @@ TODO: Add long description of the pod here.
     'DEFINES_MODULE' => 'YES'
   }
   # 组件支持swift混编的版本
-  s.swift_versions = ['5.1', '5.2','5.3', '5.4']
+  s.swift_versions = ['5.1', '5.2','5.3', '5.4', '5.5']
   
   # s.resource_bundles = {
   #   '${POD_NAME}' => ['${POD_NAME}/Assets/*.png']
