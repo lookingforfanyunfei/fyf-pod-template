@@ -1,4 +1,4 @@
-source 'https://github.com/fanyunfei786452470/FYFSpecs.git'
+source 'https://github.com/lookingforfanyunfei/FYFSpecs.git'
 
 platform :ios, '9.0'
 
