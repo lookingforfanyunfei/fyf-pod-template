@@ -52,7 +52,7 @@ module Pod
           end
       end
 
-      prefix = FYF
+      prefix = "FYF"
 
       loop do
         prefix = configurator.ask("What is your class prefix").upcase
